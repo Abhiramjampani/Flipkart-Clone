@@ -37,7 +37,7 @@ This project is a clone of Flipkart built using the MERN stack (MongoDB, Express
 1.  Clone the repository:
 
    ```bash
-   git clone https://github.com/PavanaSakethaRam/Flipkart-Clone/
+   git clone https://github.com/Abhiramjampani/Flipkart-Clone/
    ```
 2.  Navigate to the server directory:
   ```bash
